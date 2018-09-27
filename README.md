@@ -1,2 +1,2 @@
-# Curious Wombat
-Here are the things in the thing
+# curious-wombat
+the things in the thing
